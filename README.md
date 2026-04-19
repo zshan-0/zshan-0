@@ -34,8 +34,3 @@ I am a seasoned developer specializing in the **MERN Stack** and **Next.js**, wi
 ### 📫 Check Out My Live Project
 * **Project:** [Numerology Calculator](https://namenumerologycal.com)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Zeeshan's GitHub Stats" />
-</p>
